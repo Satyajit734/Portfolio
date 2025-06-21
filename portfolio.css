@@ -1,0 +1,35 @@
+
+    *{
+        font-family: serif;
+    }
+    body{
+        background-color: lightgray;
+    }
+    .title{
+        color: blue;
+        margin-left: 200px;
+    }
+    .introduction{
+        background-color: rgb(7, 229, 237);
+        margin: 0px;
+        padding: 0.5px;
+        left: 0px;
+        margin-left: -6px;
+        box-shadow: 5px 5px 5px black;
+    }
+    .academic{
+        background-color: rgb(7, 229, 237);
+        margin-top: 10px;
+        padding: 0.5px;
+        left: 0px;
+        margin-left: -6px;
+        box-shadow: 5px 5px 5px black;
+    }
+    .contact{
+        background-color: rgb(7, 229, 237);
+        margin-top: 10px;
+        padding: 0.5px;
+        left: 0px;
+        margin-left: -6px;
+        box-shadow: 5px 5px 5px black;
+    }
